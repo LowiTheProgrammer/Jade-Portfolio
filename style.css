@@ -71,6 +71,9 @@ nav ul li a:hover {
     width: 500px;
     
 }
+h1 {
+    font-size: 30px;
+}
 footer p {
     text-align: center;
     font-size: 10px;
@@ -90,5 +93,6 @@ footer {
         font-size: 10px;
     }
 }
+
 
 
